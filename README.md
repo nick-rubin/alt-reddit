@@ -9,7 +9,7 @@ This project is an attempt to tackle the problem of online community moderation 
 
 Data comes from pushshift.io, Jason Baumgartner's wonderful free archive of reddit posts and comments.
 
-Large black slides are videos of the Intertopic Distance Map visualizations found in the Jupyter Notebooks. Video doesn't come across well in pdf format.
+Large black slides are videos of the pyLDAvis Intertopic Distance Map visualizations found in the Jupyter Notebooks. Video doesn't come across well in pdf format. Running the code will produce the interactive visualizations, and I can provide videos of them upon request.
 
 For a summary of my methods, my findings, and all my visualizations, please view my attached powerpoint.
 
